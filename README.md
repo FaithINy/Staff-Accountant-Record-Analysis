@@ -1,4 +1,4 @@
-# Associate Accountant Automation System
+# General Accountant Automation System
 
 > **A Python-based system for automating accounting workflows, including financial record analysis, bank reconciliations, journal entries, month-end close processes, internal audits, and payment discrepancy resolutions. Ensures adherence to regulatory standards and improves account accuracy.**
 
