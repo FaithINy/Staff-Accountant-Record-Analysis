@@ -7,7 +7,7 @@
 ##  **Repository Overview**
 
 ### **Purpose**
-This system is designed to **streamline and automate** the core responsibilities of an **Associate Accountant**, including:
+This system is designed to **streamline and automate** the core responsibilities of an **Accountant**, including:
 - **Financial record analysis** to uncover discrepancies.
 - **Bank reconciliation** for cash accounts.
 - **Journal entry preparation and posting**.
